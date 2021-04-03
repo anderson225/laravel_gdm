@@ -88,12 +88,6 @@ http://127.0.0.1:8000
     </tr>
 </table>
 
-## 🧪 ️ CAPTURE D'ECRAN
-#### Page des disques - Affichage des Informations sur les disques
-![storybook example screenshot](Documentation/gestion-disque.png)
-
-#### Login - Formulaire de connexion
-![storybook example screenshot](Documentation/login.png)
 
 ##  AUTEUR
 <table>
